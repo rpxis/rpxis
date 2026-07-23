@@ -9,7 +9,7 @@
 ---
 
 ### 💻 No Terminal Atualmente
-* **Stack Principal:** `JavaScript`, `React`, `Python`, `C`, `SQL`
+* **Stack Principal:** `JavaScript`, `React`, `Tailwind CSS`, `Python`, `C`, `SQL`
 * **Ambiente:** Windows + VS Code
 * **Foco:** Análise e Desenvolvimento de Sistemas
 
@@ -22,7 +22,7 @@
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `JavaScript` `Python` `C` `SQL` |
-| **Web & UI** | `React` `HTML5` `CSS3` |
+| **Web & UI** | `React` `Tailwind CSS` `HTML5` `CSS3` |
 | **Ferramentas** | `Git` `GitHub` `Windows` `VS Code` |
 
 </div>
