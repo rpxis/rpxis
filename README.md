@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rpxis/rpxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Rian. ⚡
 
-Here are some ideas to get you started:
+<p><em>Curioso por tecnologia. Desenvolvendo sistemas, quebrando código para entender como funciona e construindo do zero.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 No Terminal Atualmente
+* **Stack Principal:** `JavaScript`, `React`, `Python`, `C`, `SQL`
+* **Ambiente:** Windows + VS Code
+* **Foco:** Análise e Desenvolvimento de Sistemas
+
+---
+
+### 🛠️ Core Stack
+
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` `Python` `C` `SQL` |
+| **Web & UI** | `React` `HTML5` `CSS3` |
+| **Ferramentas** | `Git` `GitHub` `Windows` `VS Code` |
+
+</div>
+
+---
+
+### 📊 Métricas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpxis&show_icons=true&theme=compact&hide_border=true&include_all_commits=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpxis&layout=compact&theme=compact&hide_border=true" />
+</p>
+
+---
+
+### 
+
+* **LinkedIn:** [Rian Pablo](https://www.linkedin.com/in/rianpablo/)
