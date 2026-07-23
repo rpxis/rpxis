@@ -29,16 +29,6 @@
 
 ---
 
-### 📊 Métricas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpxis&show_icons=true&theme=compact&hide_border=true&include_all_commits=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpxis&layout=compact&theme=compact&hide_border=true" />
-</p>
-
----
-
 ### 
 
 * **LinkedIn:** [Rian Pablo](https://www.linkedin.com/in/rianpablo/)
