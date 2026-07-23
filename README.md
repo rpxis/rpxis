@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rian. ⚡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F716&width=435&lines=Hey%2C+I'm+Rian.+)](https://git.io/typing-svg)
 
 <p><em>Curioso por tecnologia. Desenvolvendo sistemas, quebrando código para entender como funciona e construindo do zero.</em></p>
 
